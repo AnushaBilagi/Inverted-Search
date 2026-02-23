@@ -1,0 +1,10 @@
+#0;are;2;file1.txt;1;file2.txt;2;#
+#3;doing;1;file2.txt;1;#
+#7;hii;2;file1.txt;2;file2.txt;1;#
+#7;hello;1;file1.txt;1;#
+#7;how;1;file1.txt;1;#
+#14;ok;1;file2.txt;1;#
+#22;What;1;file2.txt;1;#
+#24;you;2;file1.txt;1;file2.txt;2;#
+#26;8;1;file2.txt;1;#
+#27;?;2;file1.txt;1;file2.txt;2;#
